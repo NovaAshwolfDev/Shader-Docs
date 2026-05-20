@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmilo_shader_docs=self.webpackChunkmilo_shader_docs||[]).push([["823"],{7176(e,s,c){c.r(s),c.d(s,{default:()=>a});var l=c(6540),u=c(6347);function a(){let e=(0,u.W6)();return(0,l.useEffect)(()=>{e.replace("/docs/basics")},[e]),null}}}]);
