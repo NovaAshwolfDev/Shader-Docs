@@ -18,5 +18,9 @@
   "halloween": {
     "version": "1.1.1",
     "updatedAt": "2025-12-04T12:00:00Z"
+  },
+  "ultraflow": {
+    "version": "1.0.0",
+    "updatedAt": "2026-5-20T16:20:00Z"
   }
 }
